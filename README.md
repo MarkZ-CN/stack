@@ -136,6 +136,8 @@ uv run stack-generation \
 
 ## Model Architecture
 
+> 📖 For an in-depth technical walkthrough (Q&A format, with citations), see **[ARCHITECTURE.md](ARCHITECTURE.md)**.
+
 - **Tabular Attention**: Alternating cell-wise and gene-wise attention layers
 - **Token Dimension**: Configurable token embedding dimension (default: 16)
 - **Hidden Dimension**: Gene dimension reduction (default: 100)
